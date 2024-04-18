@@ -8,7 +8,7 @@ const Navbar = () => {
     <div className='flex items-center p-4'>
       <MobileSidebar />
 
-      <Link href='{}' className='flex w-full justify-end'>
+      <Link href='https://github.com/nathsouzadev/ai-demo-live' target='_blank' className='flex w-full justify-end'>
         Code
         <div className='ml-2'>
           <Github />
